@@ -121,6 +121,7 @@ input[type=submit]:hover {
 .comico{position: relative; width: 20%; }
 .dionisomaschera{position: relative; width: 20%;}
 .vaso5{position: relative;width: 20%;}
+.deta{width:58%;margin-left: 20%; background: white; color:black; padding: 15px; margin-bottom: 2px;border:solid; border-radius:5px;border-color: #007FFF;}
 
 /*Descrizioni*/
 .posizione{width: 90%; margin-left: 5%;flex:1;}
